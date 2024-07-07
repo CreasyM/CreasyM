@@ -5,12 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking t ...
+- 🔭 I’m currently working on a website 
+- 🌱 I’m currently learning to code 
+- 👯 I’m looking to finish the sitd ..
 - 🤔 
-- 💬 Ask me about the weat
-- 📫 How to reach me
+- 💬 Ask me about the weather 
+- 📫 How to reach me email
 - 😄 Pronouns: ...
-- ⚡ Fun fact:
+- ⚡ Fun fact:i don't know what im doing 
 -->
+
