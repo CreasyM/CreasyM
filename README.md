@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website 
 - 🌱 I’m currently learning to code 
-- 👯 I’m looking to finish the sitd ..
+- 👯 I’m looking to finish the site..
 - 🤔 
-- 💬 Ask me about the weather 
-- 📫 How to reach me email
+- 💬 Ask me about the weather its hot 
+- 📫 How to reach me email creasymary36@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact:i don't know what im doing 
 -->
